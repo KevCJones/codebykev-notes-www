@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Scratch Notes",
+  "name": "Scratch - Note taking application",
   "icons": [
     {
       "src": "favicon.ico",
